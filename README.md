@@ -8,4 +8,12 @@ A Simple Case:
 ** 跟踪链接的使用方法
 
 A Project -- Tutorial:
-==========
+======================
+
+* cd tutorial top dir
+* scrapy crawl quotes -o quotes.json
+
+A Poject -- tow spiders:
+========================
+
+* quotesbot
