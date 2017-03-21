@@ -10,7 +10,7 @@ A Simple Case:
 A Project -- Tutorial:
 ======================
 
-* cd tutorial top dir
+* cd tutorial root directory
 * scrapy crawl quotes -o quotes.json
 
 A Poject -- tow spiders:
