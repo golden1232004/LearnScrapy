@@ -61,3 +61,5 @@ Reference
 ========
 
 1. [关于“淘宝爆款”的数据抓取与数据分析](http://blog.csdn.net/u012150179/article/details/37306629)
+
+2. [如何让你的scrapy爬虫不再被ban](http://www.cnblogs.com/rwxwsblog/p/4575894.html)
