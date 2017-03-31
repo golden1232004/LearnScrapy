@@ -15,31 +15,43 @@ pyOpenSSL : 16.2.0 (OpenSSL 1.0.2j  26 Sep 2016)
 Platform  : Linux-4.4.0-57-generic-x86_64-with-debian-stretch-sid
 ```
 
+Frameworks:
+==========
 
-A Simple Case:
-==============
+Learn
+-----
+
+1. a simple case
 
 * scrapy runspider quotes_spider.py -o quotes.json
-
   * 定义默认的callback
   * 跟踪链接的使用方法
 
-A Project -- Tutorial:
-======================
+2. tutorial
 
 * cd tutorial root directory
 * scrapy crawl quotes -o quotes.json
 
-A Poject -- tow spiders:
-========================
+3. two spiders:
 
 * quotesbot
 
 
-A Project -- tmSpider
-=====================
+Spiders
+-------
 
-* combine with selenium + phantomjs
+1. tmSpider
+
+* combine with selenium + phantomjs to crawl tmall or taobao data
+
+
+Data Analysis
+-------------
+
+* TODO
+
+
+
 
 Reference
 ========
