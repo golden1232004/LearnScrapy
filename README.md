@@ -44,9 +44,9 @@ Spiders
 
 > combine with selenium + phantomjs to crawl tmall or taobao data
 
-* ''Search'': input keys to search products
-* ''Extract'': shopUrl, category(店铺分类), name(店铺名)， nick(卖家昵称), nid（店铺ID）, provcity（店铺区域）, totalsold（店铺宝贝）, procnt（店铺销量）, startFee, mainAuction（店铺关键词）, userRateUrl（用户评分链接）, sgr（店铺好评率）, srn（店铺等级）, mas（描述相符）, sas（服务态度）, cas（物流速度）
-* ''Storage'': insert to database, such as mongodb
+* **Search**: input keys to search products
+* **Extract**: shopUrl, category(店铺分类), name(店铺名)， nick(卖家昵称), nid（店铺ID）, provcity（店铺区域）, totalsold（店铺宝贝）, procnt（店铺销量）, startFee, mainAuction（店铺关键词）, userRateUrl（用户评分链接）, sgr（店铺好评率）, srn（店铺等级）, mas（描述相符）, sas（服务态度）, cas（物流速度）
+* **Storage**: insert to database, such as mongodb
 
 
 Data Analysis
